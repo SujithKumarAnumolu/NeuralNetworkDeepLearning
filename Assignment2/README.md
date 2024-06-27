@@ -27,6 +27,6 @@ A) Text file processing functions are defined by this code: File processing take
 
 3) Write a program, which reads heights (inches.) of customers into a list and convert these
 heights to centimeters in a separate list using:
-1) Nested Interactive loop.
-2) List comprehensions
+   Nested Interactive loop.
+   List comprehensions
 A) Users can provide a list of heights in inches, and this Python script will convert those heights into centimeters using a list comprehension and a conventional loop (getHeightUsingLoop function). The results will be printed out. The getHeightUsingLoop function rounds the result to two decimal places, iterates over each height in inches, multiplies it by 2.54, and gathers the converted heights in a list. The primary function accepts user input, applies both algorithms to the input list, then produces the converted heights for comparison.
